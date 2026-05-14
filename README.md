@@ -22,11 +22,20 @@
 
 ## System Flow
 
+전체 게임 루프
+
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/497c4c42-f470-4ea1-ad82-df6a51915cc7" />
+
+SceneManager 내부
+<img width="1000" height="330" alt="Image" src="https://github.com/user-attachments/assets/532fb40e-ca63-4203-9bcc-ce61f4571b1f" />
 
 ## UML 클래스 다이어그램
-<img width="1016" height="943" alt="Image" src="https://github.com/user-attachments/assets/d582e95e-5242-4f89-9cea-a6cfab535b18" />
+<img width="997" height="942" alt="Image" src="https://github.com/user-attachments/assets/798ab3f0-ee1f-4400-887a-f71d1c75092a" />
 
 ## 주요 구현 기능
 
 
 ## 실행 화면
+|<img width="440" height="360" alt="Image" src="https://github.com/user-attachments/assets/9fc72d0e-e965-4032-bdf6-910fe88990e3" />|<img width="440" height="360" alt="Image" src="https://github.com/user-attachments/assets/6daa88fd-77f5-48a3-946e-839c72bc0cc0" />|
+|-----|------|
+|<img width="440" height="360" alt="Image" src="https://github.com/user-attachments/assets/f4e1f66c-145b-4c1b-8291-28eaea378782" />|<img width="440" height="360" alt="Image" src="https://github.com/user-attachments/assets/e3aecd94-bde6-4c52-b68f-3e8f863be628" />|
